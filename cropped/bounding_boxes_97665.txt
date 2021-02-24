@@ -1,0 +1,4 @@
+./cropped\saad\1.png 0 0 100 100
+./cropped\saad\2.png 0 0 89 92
+./cropped\saad\3.png 0 10 88 100
+./cropped\saad\4.png 11 0 100 97
